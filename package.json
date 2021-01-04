@@ -1,0 +1,8 @@
+{
+  "name": "eltodo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:eljoaquin/eltodo.git",
+  "author": "eljoaquin27@gmail.com",
+  "license": "MIT"
+}
